@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 import java.util.stream.StreamSupport;
 
 /**
- * Created by sonaxaton on 10/1/15.
+ * Created by Daniel Beckwith on 10/1/15.
  */
 public class Main {
 

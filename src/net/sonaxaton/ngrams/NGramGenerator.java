@@ -13,7 +13,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.IntStream;
 
 /**
- * Created by sonaxaton on 10/1/15.<br/>
+ * Created by Daniel Beckwith on 10/1/15.<br/>
  * A class that takes strings of symbols as input and then can generate random strings that resemble the input. If the
  * parameter is <code>n</code>, it does this by looking at the previous <code>n-1</code> symbols generated and using
  * these as a context. From this context it looks at the probability that given this context, certain other symbols
